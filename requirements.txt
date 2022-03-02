@@ -1,0 +1,6 @@
+cffi==1.15.0
+numpy==1.22.2
+pycparser==2.21
+pysinewave==0.0.6
+sounddevice==0.4.4
+tqdm==4.62.3
